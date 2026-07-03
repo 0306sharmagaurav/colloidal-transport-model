@@ -1,2 +1,2 @@
-# colloidal-transport-model-
-Python-based numerical model for simulating colloidal transport in saturated porous media using Breakthrough Curves (BTCs) and Differential Evolution optimization for model calibration.
+# colloidal-transport-model
+Python-based computational workflow for estimating transport parameters from experimental Breakthrough Curve (BTC) data using Differential Evolution optimization.
